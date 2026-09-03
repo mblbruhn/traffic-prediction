@@ -11,3 +11,11 @@ wheels/
 
 # Dataset directory
 data/
+
+# Matplotlib and IPython cache
+.matplotlib/
+.ipython/
+
+# OS files
+.DS_Store
+
